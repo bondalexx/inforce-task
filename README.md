@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Task Description
+## Task Description
 
 Build a **Product List Web App** to simulate a shopping application.  
 There are two main views:
@@ -18,11 +18,11 @@ There are two main views:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 This project was bootstrapped with **Create React App**, using the **Redux Toolkit** template.
 
-### 🔧 Project Setup
+### Project Setup
 
 1. Clone the repository:
    ```bash
@@ -37,20 +37,20 @@ This project was bootstrapped with **Create React App**, using the **Redux Toolk
     npm install
   ```
 4.Open a new terminal, go to the db folder, and install json-server globally:
-```bash
-cd ./db
-npm install -g json-server
-```
-Running the App
+   ```bash
+   cd ./db
+   npm install -g json-server
+   ```
+### Running the App
 1. Start the React app:
-```bash
-cd ./inforce-task-client
-npm run dev
-```
+   ```bash
+   cd ./inforce-task-client
+   npm run dev
+   ```
 2.Start the mock backend:
-```bash
-cd ./db
-json-server --watch db.json --port 3001
-```
+   ```bash
+   cd ./db
+   json-server --watch db.json --port 3001
+   ```
 
 
