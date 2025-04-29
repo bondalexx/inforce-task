@@ -1,6 +1,6 @@
 ﻿# inforce-task
 
-## 🛠 Technical Stack
+## Technical Stack
 
 - **React**
 - **Redux (with Redux Toolkit)**
@@ -33,8 +33,8 @@ This project was bootstrapped with **Create React App**, using the **Redux Toolk
 
 3.In the terminal, navigate to the client and install dependencies:
   ```bash
-    cd ./inforce-task-client
-    npm install
+  cd ./inforce-task-client
+  npm install
   ```
 4.Open a new terminal, go to the db folder, and install json-server globally:
    ```bash
