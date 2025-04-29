@@ -1,0 +1,48 @@
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+}
+.navbar li {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  cursor: pointer;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.navbar li:hover {
+  background-color: #306e33;
+}
+
+.mainblock {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: #333;
+  padding: 0 10px;
+  justify-content: space-between;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.add {
+  cursor: pointer;
+  padding: 14px 16px;
+  background-color: #4caf50;
+}

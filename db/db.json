@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "name": "Phone",
+      "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QDxAQDhAQDw0OERAVFg8OEA8PEA8PFREWFhURFxYYHSghGholGxUVIjEhJyktLi4uGB81ODMuNyotLisBCgoKDg0OGRAPGSwlHR0tMSsuKzctMjUwLTc3LTctLS0tOCsrKy03Ny8tLysuNTcxLS03LS0tNyswKzAtLS03L//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABAUBAgMGCAf/xABIEAACAQICBAcNBQUHBQAAAAAAAQIDEQQSBSExUQYTIkFhcYEjMlRyc3SRk6GxsrPRFSVCUmIHFCQzwUNjksLD0uFEU6KjtP/EABgBAQADAQAAAAAAAAAAAAAAAAABAgME/8QAJxEBAQACAgECBAcAAAAAAAAAAAECEQMxIRKxBBNB0SIyUWGBkaH/2gAMAwEAAhEDEQA/AP3EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHkeGPCedGawuEt+9SScp2UuKUu9ST1OTs3r2LrPynTulss5cdiq9eom00q9WpGMr2au5xhqeq0dhK4VaTnDFaUqpvjHXqU1K7TilOFC6fM1CLt02PyuvOVWo7tJK6S2RilsS3cyA9fPTi5uO7ZzX+qax0zKTSjGs29iVSrd/+w8rh5ON481pO25pXLzgvpOOHxNOrUi5wV01FKUldd8k9tt264FvR0paahXjXpt221K8ZK/Q5F1LCqycZ1GmrpqtVs0+faef4c6eo4ytTeHhKMKUZpynHI5yk4uyW1JWe3nk9RbcGMQ6mG5Wtwl7H/wApvtYHDStfiKbm51W9iiqtW8pPYlrI2CwuKlaVbE1qeZrudKo3lW5ylfX1W7dpvp2zxOEi+9zylr2XUJSXtiiw6i+M2KbF06sZNfvOK1b68yBVrVl/1OJ9dMvdM07Tb5pcpdUlde8pK8RYKafCCrzYjF238a9ftOUuEGI8JxXrX9TatoumtmZdF9hGngILnl6V9Cokx0zinsxWJVuZ1ZXMPTGL8KxHrZEZU1HZ6XtNWgLHC8JdIUmnSxuJg1zqrI/Yv2S/tQrYussBpFqVeafFYhJR4xpX4uaWq9tj97Z+EsncH8TKljcLVi7Sp16Uk+lSuQPsgAAAAAAAAAAAAAAAAAAfN/DWXd8et+MxH/0s8HVgk275b702r71Y93w0jfE45Lw3Ee3FHisZjIqTjTjFpX5Uo5pSttfQgOGZbI629srNK25HetXay0qbUcyWaV8t5Pe+ZI5U6ilfVaSV9Wxrn6mcqsczvz7nzgZpVpXtJtq9tbvbpTPecCJ9xrLnUoLt5Z4Vztlz25OyC2t9J7bgInxFVvbKUH8YoicM6OepQjvb+Cb/AKFGsBOHeOUfFbj7j0+nY3xOG3Xn1fyqhu8Mi+M3Eo8MbFYKlPEVHnhOVJykpSlJrlR2Xb5Ekr/pZB4+nPvJxl0J6/RtLGejo1E6bW2UZLykVJL2SkutoqsZoK2xWZaoca8CDVibzlVpapXnDp75dvP2mbqSvF3Xu6CghTicZImTgcJRIEdo76NXd6PlYe80cTro9d3o+Vh7wPssAEAAAAAAAAAAAAAAAAD5x4a0pOvjnHw3FLtWIzL3W7T8+tlnm1tX9Kvri/6o/WsVCFXEY9NXhLG4ramtXGy3nnsbwMzScqVRwv1/0A8VUaV52y5k1GK6VZv2nGs2oNraezpcBpJ3lOM3+py/oyUuB/6aX+Kv/uA8BgYuepRcpNpRUVdyk9SSS2u9j9Q0JgOIo5XbNaN2ndOSXKs+dZnNX50k+c00bwdjRea0IvfBTcrc6zSbaXVYtKmrUtiA83pl/wAXht15/KqE1EDTrticM/1T+VP6kiFU1w6THZos5UY1qedJZlqmlzS39T2+ncVSmScDjHSnmWuL1Sh+aO7r3MsKrSOjtuo8zisJKnLNHtXM0fp+MwkZxU6bzU5K6fvT3NbjzWkNH7dRWweU1SV1sfse44zgS61Hip69UJbdyfNIVKNitiFdKBvgY93o+Vh7zvKkYoRtVpN81WHvIH2EDEXdJrYzJUAAAAAAAAAAAAAAAAfgmEfdsX53ifmyLGEyqpO1fFp6msXidT1f2sibCYEzMYczhnMOYG85kWrI2qTItSYHnuEU+74folL205/Q1hXOfCWXLoP9cvlyIUKpfHoXEKx1VYqYVjrGsX2L7RulZUW/x0pd9Tb2/qW6RdVKFOtDjKLzQfpi/wAslzM8Txx1wmkKlGWelJxl6VJbmnqa6GNpSdOaL1PUVNOk5QTffR5L647H6Gu1M9TR09h6yy10qNR8+t0pPr2x7dXSaw0JLlyjG9OWVxmtcJPXsktT1PmLyS9IrycqBGr0rOD/AFx956mvoyS5ip0thXGMXb+0h7zPLHSH1JQ72Pir3G5zod5HxV7joZJAAAAAAAAAAAAAAAAfgmkpWx2P89xXzWI1DjpeX8dj/PcT81nNTAmqoYlUIvGHOvXyxlJ7Ipv0K4EipUIFDGKonKKaim0m/wAXSugoKmlqzbebU/w2TjbdZmdHYqrOoln5KV2rLLlXMktm0Bwkly6Xjf5JldGZM4SS10/G/wAkyrUy0EyNQ6KqQlMyqhYTeNHGkPjBxhAkzqGmF0piMPLNh61Sk3tUJcmXjRfJl2pnB1DhUYg9zheGFTi6cq9KjWzKSlJJ0ZuUXt5PJ2OP4ThpnTuHxFOnCFGdKq69B3c41IWU1fXZP2HmM/8ADwe6pUXpjD6M54arerRX97T+I15bd6/aeyI+wQAc6QAAAAAAAAAAAAAAAHz1pp/x+P8APMT81kdSOmnn94Y/zzE/NZFzAd85zrcqMovZJNelWNMxhyA8rWTjJxlqcXZm+jqk1Vjk1t6nfZl57nopQi3mcYuS52le3WaqEU21FJva0kmwKbhK/wCX4y+GZTqRbcJXqh4y+GZSXLQd1MznOGYZgO+cxnOOYw5AdnM1cjk5GMwQnV52w9Nfmq1X/hhT/wBxy0fLu9HysPeTZ6NqVKNDlUqcFGpLNUnZuUp2tlinLZBa7W1mtDR8KdSi1XVSaq0+TGm1HvtfKbv/AOJ0cnFn3rxqeysynT6/AByrgAAAAAAAAAAAAAAAPnPhC/vDH+eYn5rIeYkcJH944/zzE/NZBzAdsxjMcsxjMB0cjDkc3I1cgKjhG9UPGXwzKUuOED1Q8dfDMpi06QzcXMAnQXMNnShRnUlGFOLlOTsora/+OnmLGPFYfvctfELbUaUqNJ/3cX37/U9W5c5fHDatrhhtFVJxU5uNCk9lSs8uZb4R2y7CwwmjsG5Rjnq1pyaV1HLBtvmWpr2lbUrSnJynJym9spNtvtZY4DkQnWe1cmHlJLb2K767HTw8eG/M3IrlbI1xmXjJKLvCHJi77YwWVPttftNKK7pR8rT+I53NqD7rR8rT+IryZblquPb6/ABxNwAAAAAAAAAAAAAAAHzZwnf3jj/PMT81ldmJ3Cp/eOP88xPzWVlwOuYxmOeYXA3cjDkaXMNgVunHqj46+GZUlrpnvY+OvhmVZphNxFYM06cpSUYpylJpKK2tvYgWeEXEUeO2Vq2aNPfCH46nW72XXdGuOO6raV5xoQlRptOclarVj+J/9qL/ACJ7fzNbrFa5CTNsPQlUkowTlKTskldtlvOV1jDp2wVCVWahBXb7ElztvmSJ2OrxbjCn/KpJqLtbM331TtfsSM1ZRowdGm1KctVSpHWvJRe7e+fZs2wHI0yswx9E/n7MvzXbfMb4V91o+Vp/ERnI64J92o+Vp/EYZXxV5PL7HABztQAAAAAAAAAAAAAAAHzNwtf3lj/O8R8xlXmLHhe/vLH+d4j5jKm4HXMYzHO4uB0zGLmlzFwIeldkfHXwTK9xLTEUZVJQjFXbnsXRTqMkUuD1eWynJ9jO34bhyzx3J9WPJyY43zVNhsPxk4w12k9bW1RSvJrpSTZK0zUc60oxVoUu5xS2JQ1O3RmzPqaPUaJ4P/utRVsZOnh4K1nWkoNvPFtJPW7xU1qXOVGKxuDpPuKeKn+aSlRo336+XLqtHrOj5WGMvry1/rH527+GbV2C0TUqXk7Qpx1yqTeWEVvbZ2q4yFOLp4a9mrSrtOM6i54xW2Mfa+hXTiY7SNWs1xkuTHvacUo04dUVz9Lu97I2Ywy55J6eOan6/WtJjlfOf9OjkaORo5GLnNcmmm7kdsA+70fKw95EbO+jn3ej5WHvK2rPs4AFFgAAAAAAAAAAAAAAAHzLw3puGlMfF7f3qq+ybzr2SRSXP139rfAavWq/aGCg6s3GMa9CCvUllVo1oL8TtZOO20Y257/j9SWVuMuTJbYy5Mk9zT1oDe4uc+NjvXpQ42O9elAdLmLmnGR3r0oxxkd69KA54rG1aGWtQk4VYTVppJtJwnF7ehkHE8JMfU7/ABeIa3KrOMfQnYm4lRnFxbWtb0VOHwtqsFP+XnhmkuUlDMrtpa9hO70iydvTcK1klTo3vxFKlBt7XKMEpPtd32nm5MuOEuPp1cRUnCWaMpNppS2X6illLr9DOz4rKerWN8Tww4cbMZtm5i5rm6/QzGbofoZx7babNmLmt+h+hmOx+hhLZsmaEpOpi8NCOuU61NJdLlqIUYyepRk2+ZJ62fr/AOxr9nOJ/eaekMdSlRo0OVRpVVlqVan4aji9aitqvtaVtQ2P3oAEJAAAAAAAAAAAAAAAADhiMHSqfzKVOp48Iy96O4Ag/Y2E8Gw/qaX0H2NhPBsP6ml9CcAIP2NhPBsP6ml9B9jYTwbD+ppfQnACD9jYTwbD+ppfQw9C4TwXD+ppfQngCA9CYPwXDeopfQx9h4PwXDeopfQsABX/AGHg/BcN6il9B9h4PwXDeopfQsABX/YeD8Fw3qKX0H2Hg/BcN6il9CwAEXD6Ow9N3p0aVN74U4RfsRKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=",
+      "count": "2",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "100",
+      "comments": []
+    },
+    {
+      "id": "6",
+      "name": "A Watches",
+      "imageUrl": "https://my-apple.com.ua/image/catalog/products/watch/Series-10-42mm/Rose-Gold-Aluminium-1.png",
+      "count": 1,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "100",
+      "comments": []
+    },
+    {
+      "id": "d382",
+      "name": "Mouse",
+      "imageUrl": "https://img.telemart.ua/181955-846024-product_popup/logitech-g-pro-gaming-wireless-910-005272-black.jpg",
+      "count": 15,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "500",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "2",
+      "productId": 1,
+      "description": "Another comment for product 1.",
+      "date": "15:30 22.08.2021"
+    },
+    {
+      "id": "3",
+      "productId": 1,
+      "description": "Another comment for product 1.",
+      "date": "15:30 22.08.2021"
+    },
+    {
+      "id": "1745933610012",
+      "description": "New laptop so cool",
+      "productId": 1,
+      "date": "16:33 29.04.2025"
+    },
+    {
+      "id": "1745933621834",
+      "description": "wow",
+      "productId": 1,
+      "date": "16:33 29.04.2025"
+    }
+  ]
+}

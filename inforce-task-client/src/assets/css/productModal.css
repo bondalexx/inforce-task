@@ -1,0 +1,17 @@
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.modal-child {
+  width: 500px;
+  background-color: white;
+  padding: 15px;
+}
