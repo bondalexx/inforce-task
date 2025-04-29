@@ -15,7 +15,6 @@ Configurations:
 - Open folder in editor
 - Open terminal and write in console cd ./inforce-task-client and wirte npm i
 - Open new terminal and write in console cd ./db and wrtie npm install -g json-server
-- After
 
 How to start a project:
 - In inforce-task-client terminal write npm run dev
