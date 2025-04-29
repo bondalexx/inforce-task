@@ -29,14 +29,14 @@ This project was bootstrapped with **Create React App**, using the **Redux Toolk
    git clone https://github.com/bondalexx/inforce-task.git
    ```
   
-2.Open the folder in your code editor.
+2. Open the folder in your code editor.
 
-3.In the terminal, navigate to the client and install dependencies:
+3. In the terminal, navigate to the client and install dependencies:
   ```bash
   cd ./inforce-task-client
   npm install
   ```
-4.Open a new terminal, go to the db folder, and install json-server globally:
+4. Open a new terminal, go to the db folder, and install json-server globally:
    ```bash
    cd ./db
    npm install -g json-server
@@ -47,7 +47,7 @@ This project was bootstrapped with **Create React App**, using the **Redux Toolk
    cd ./inforce-task-client
    npm run dev
    ```
-2.Start the mock backend:
+2. Start the mock backend:
    ```bash
    cd ./db
    json-server --watch db.json --port 3001
